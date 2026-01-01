@@ -9,3 +9,8 @@ print("I am", 35, "years old.")
 
 
 print("Hello, World!") #This is a comment
+
+x = y = z = "Orange"
+print(x)
+print(y)
+print(z)
