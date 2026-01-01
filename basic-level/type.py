@@ -1,2 +1,6 @@
-
-print("sariot hossain");
+print("Hello World!")
+print("Have a good day.")
+print("Learning Python is fun!")
+print(3)
+print(358)
+print(50000)
