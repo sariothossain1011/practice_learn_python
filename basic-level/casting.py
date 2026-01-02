@@ -14,3 +14,16 @@ print(b[2:5])
 
 a = "Hello, World!"
 print(a.lower())
+
+
+
+
+txt = "We \\ are \n the\r so\t- \bcalled \"Vikings\" from \f the \157 north.\110"
+print(txt) 
+
+
+txt = "Hello, welcome to my world."
+
+x = txt.endswith(".")
+
+print(x)
