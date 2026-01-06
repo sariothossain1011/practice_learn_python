@@ -22,7 +22,7 @@ txt = "We \\ are \n the\r so\t- \bcalled \"Vikings\" from \f the \157 north.\110
 print(txt) 
 
 
-txt = "Hello, welcome to my world."
+txt = "Hello, welcome to my world!git a"
 
 x = txt.endswith(".")
 
